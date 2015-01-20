@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title>ET-710 Term Project</title>
+<!-- #EndEditable -->
+<link href="styles/style2.css" rel="stylesheet" type="text/css" />
++<link href="styles/bootstrap.css" rel="stylesheet" type="text/css" />
++<link href="Barack%20Obama/main.css" rel="stylesheet" type="text/css" />
++<link href="styles/shift.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+
+.auto-style1 {
+	text-align: left;
+}
+</style>
+</head>
+
+<body>
+
+<!-- Begin Container -->
+<div id="container">
+	<!-- Begin Masthead -->
+	<div id="masthead">
+		<h1>ET-710 Term Project</h1>
+		</div>
+	<div id="masthead">	
+		<h1> Four U.S. Presidents</h1>
+	</div>
+	<div class="calendar" enableviewstate="true">
+   <script type="text/javascript" src="calendar.js"></script>
+    </div>
+	<!-- End Masthead -->
+	<!-- Begin Navigation -->
+	<div id="navigation">
+	<div class="menu">
+      
+      <!-- Menu icon -->
+      <div class="icon-close">
+             </div>
+
+      <!-- Menu -->
+      <ul>
+      <p><li><a href="../Home/default.html"><img id="logo" src="Home/house-icon.png"/>Home</a></li>
+        <li><a href="../Barack%20Obama/default.html"><img id="logo" src="Home/barak_obama_thumb.png"/>Barack Obama</a></li>
+        <li><a href="../Bill%20Clinton/default.html"><img id="logo" src="Home/clintonlogo.jpg"/>Bill clinton</a></li>
+        <li><a href="../John%20F%20Kennedy/default.html"><img id="logo"  src="Home/jfklogo.jpg"/>John F Kennedy</a></li>
+         <li><a href="../Abraham%20Lincoln/default.html"><img id="logo" src="Home/abrahamlogo.jpg"/>Abraham Lincoln</a></li>
+         <li><a href="../Photo%20Gallery/default.html"><img id="logo" src="Home/photo.gif"/>Photo Gallery</a></li></p>
+
+      </ul>
+    </div>
+			</div>
+	<!-- End Navigation -->
+	<!-- Begin Page Content -->
+	<div id="page_content">
+		<!-- Begin Content -->
+		<div id="content">
+			<!-- #BeginEditable "content" -->
+			<h2> Inaugural Address</h2>
+			<!-- #EndEditable --></div>
+		<!-- End Content -->
+		<!-- Begin Sidebar -->
+		<div id="sidebar">
+			<!-- #BeginEditable "sidebar" -->
+		
+			<p>insert content here</p>
+			<!-- #EndEditable --></div>
+		<!-- End Sidebar --></div>
+	<!-- End Page Content -->
+	<!-- Begin Footer -->
+	<div id="footer">
+		<p><a href="default.html">Home</a> | 
+		<a href="Bill%20Clinton/default.html">Bill Clinton</a>| 
+		<a href="Barack%20Obama/default.html">Barack Obama</a> | 
+	    <a href="John%20F%20Kennedy/default.html">John F Kennedy</a>|
+		<a href="Abraham%20Lincoln/default.html">Abraham Lincoln</a> |
+		<a href="Photo%20Gallery/default.html">Photo Gallary</a> 
+		</p>|
+	</div>
+	<!-- End Footer --></div>
+<!-- End Container -->
+
+</body>
+
+</html>
